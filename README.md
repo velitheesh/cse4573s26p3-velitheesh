@@ -10,7 +10,7 @@ The following commands should be executed in the root folder of the project.
 
 Please first update below and push your change to this repo.
 
-For the environment, you can use the project 2 setting and install face_recognition. Or use your own, there are no hard requirement about pytorch version.
+For the environment, you can use the project 2 setting and install face_recognition, or use your own; there are no hard requirements about the PyTorch version.
 
 - Litheesh Velakaturi Rambabu  
 - litheesh
