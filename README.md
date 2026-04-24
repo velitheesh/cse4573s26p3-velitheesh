@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6kfifRyc)
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Fqsa7e3B)
 # S26-CSE473-573-A-P3
 
@@ -11,8 +12,8 @@ Please first update below and push your change to this repo.
 
 For the environment, you can use the project 2 setting and install face_recognition. Or use your own, there are no hard requirement about pytorch version.
 
-- Your name   
-- Your ubit name
+- Litheesh Velakaturi Rambabu  
+- litheesh
 
 **task 1 validation set**
 
